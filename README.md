@@ -8,7 +8,7 @@ I'm interested in cybersecurity, ethical hacking and digital creativity.
 - BCA Cybersecurity student.
 - Learning Python, Linux and networking.
 - Exploring ethical hacking and information security.
-- Interested in graphic design and UI/UX.
+- Interested in graphic design.
 - Building my skills through practical projects.
 
 ### Technical Interests
@@ -21,7 +21,6 @@ I'm interested in cybersecurity, ethical hacking and digital creativity.
 ### Creative Interests
 - Digital Design
 - Graphic Design
-- UI/UX Design
 - Visual Creativity
 
 ### Currently Learning
