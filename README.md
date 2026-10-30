@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Priya Gupta
 
-<!--
-**priya27806-csdev/priya27806-csdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Digital Designer
 
-Here are some ideas to get you started:
+I'm interested in cybersecurity, ethical hacking and digital creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- BCA Cybersecurity student.
+- Learning Python, Linux and networking.
+- Exploring ethical hacking and information security.
+- Interested in graphic design and UI/UX.
+- Building my skills through practical projects.
+
+### Technical Interests
+- Cybersecurity
+- Network Security
+- Python
+- Linux
+- Ethical Hacking
+
+### Creative Interests
+- Digital Design
+- Graphic Design
+- UI/UX Design
+- Visual Creativity
+
+### Currently Learning
+Python | Linux | Git & GitHub | Cybersecurity Fundamentals
+
+---
+
+*Learning, creating and improving — one project at a time.*
